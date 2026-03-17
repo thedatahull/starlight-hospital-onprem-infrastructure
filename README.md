@@ -1,8 +1,11 @@
 # Starlight Hospital - On-Prem Infrastructure Lab
 
 ## Project Overview
-This project simulates a small enterprise hospital IT environment built with Windows Server, Active Directory, Group Policy, SMB file services, SQL Server, and Linux integration.
+This project simulates a production-style enterprise IT environment for a hospital using Active Directory, Windows Server, and identity-based access control.
 
+The environment includes domain controller redundancy, role-based access control (RBAC), file services, SQL Server integration, and Linux interoperability.
+
+This lab is designed to reflect real-world system administration and infrastructure practices.
 The goal of the lab is to demonstrate practical infrastructure administration skills, including identity management, role-based access control, tiered architecture, workstation management, database authentication, and cross-platform troubleshooting.
 
 ## Architecture Overview
